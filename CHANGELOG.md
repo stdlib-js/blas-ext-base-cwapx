@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`8c49b29`](https://github.com/stdlib-js/stdlib/commit/8c49b2968db52866bb550ee1cfde60567c60eca9) - **docs:** update examples [(#13846)](https://github.com/stdlib-js/stdlib/pull/13846) _(by Karan Anand)_
 -   [`5b3b59d`](https://github.com/stdlib-js/stdlib/commit/5b3b59d5e2b5676d94d293fa6f6aa6e06f327a2c) - **docs:** update examples [(#13844)](https://github.com/stdlib-js/stdlib/pull/13844) _(by Karan Anand)_
 -   [`a7a3ee4`](https://github.com/stdlib-js/stdlib/commit/a7a3ee4a17c395155a8d8cc9c121b3d1d985c39e) - **feat:** add `blas/ext/base/cwapx` [(#13025)](https://github.com/stdlib-js/stdlib/pull/13025) _(by Karan Anand)_
 
